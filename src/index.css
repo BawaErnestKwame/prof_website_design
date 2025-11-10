@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
+
+@theme{
+     --hover_color:#d97706;
+}
 body{
      font-family: "Montserrat", sans-serif;
 }
